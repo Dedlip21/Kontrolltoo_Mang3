@@ -1,0 +1,19 @@
+Tavaline haldjaruu;50
+Volupuksid;100
+Valguvastane pross;250
+Volukeep;1000
+Suure jou sormus;750
+Vookott;150
+Suur volukott;800
+Kiiruse saapad;500
+Rahakott;750
+Vaga suure osavuse sormus;900
+Vaike raudvolukilp;100
+Tugevalt neetud kindad;250
+Tavaline kirves;50
+Vasimise jook;350
+Tarkuse jook;300
+Vaikeste haavade ravi jook;200
+Vaga suure osavuse kindad;600
+Kulmavastane ripats;400
+Tulevastane ehe;650
